@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 
 import Button from '../../UI/Button/Button';
 import './CourseInput.css';
+//test
 
 const CourseInput = props => {
   const [enteredValue, setEnteredValue] = useState('');
